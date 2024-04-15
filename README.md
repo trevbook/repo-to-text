@@ -17,6 +17,7 @@ This utility allows you to concatenate all the relevant files from a GitHub / Gi
    ```bash
    chmod +x repo_to_txt.sh
    chmod +x install_repo_to_txt.sh
+4. Run the `install_repo_to_txt.sh` script to modify your `~/.zshrc` file. This adds an alias to the `repo_to_text` command. 
 
 ## Usage
 
